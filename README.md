@@ -29,6 +29,6 @@ The certificates I obtained in courses:
 Event participation:
 
 * [2017 - Semanest - UFPR](https://github.com/geansm2/my_certificates/blob/main/participation/2017_8h_p_semanest_UFPR.pdf)
-* [2018- 63 Reunião Anual da Região Brasileira da Sociedade Internacionl de Biometria](https://github.com/geansm2/my_certificates/blob/main/participation/2018_p_rbras63.pdf)
+* [2018- 63 Reunião Anual da Região Brasileira da Sociedade Internacional de Biometria](https://github.com/geansm2/my_certificates/blob/main/participation/2018_p_rbras63.pdf)
 * [2021 - Aceleração Global Designer # Inter - DIO](https://github.com/geansm2/my_certificates/blob/main/participation/2021_7h_c_aceleracao_global_designer_1_inter.pdf)
 * [2021 - Process Mining Day - UpFlux](https://github.com/geansm2/my_certificates/blob/main/participation/2021_8h_c_process_mining_day.pdf)
